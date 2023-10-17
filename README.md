@@ -6,6 +6,7 @@ language stages. We conduct a case study which investigates whether the lexical 
 of ten Swadesh concepts is captured adequately over time, i.e., across three consecutive historical
 language stages: Middle High German, Early New High German, and New High German. 
 To do so, we extracted the relevant word embeddings using the script get_embeddings.ipynb, experimenting with different layer combinations. 
+For calculating the similarities, we used the code provided in calc_similarities.ipynb.
 
 For more information, please see the following paper:
 [will be added soon.]
